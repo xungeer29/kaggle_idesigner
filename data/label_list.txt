@@ -1,0 +1,50 @@
+bottega veneta,0
+prada,1
+chado ralph rucci,2
+missoni,3
+carolina herrera,4
+balmain,5
+jason wu,6
+max mara,7
+louis vuitton,8
+armani prive,9
+dries van noten,10
+valentino,11
+givenchy,12
+derek lam,13
+balenciaga,14
+oscar de la renta,15
+jil sander,16
+nina ricci,17
+hermes,18
+emporio armani,19
+giambattista valli,20
+chloe,21
+etro,22
+versace,23
+andrew gn,24
+gucci,25
+ralph lauren,26
+stella mccartney,27
+blumarine,28
+yves saint laurent,29
+giorgio armani,30
+marc by marc jacobs,31
+michael kors,32
+tommy hilfiger,33
+calvin klein,34
+jean paul gaultier,35
+marc jacobs,36
+miu miu,37
+christian dior,38
+burberry,39
+marni,40
+anna sui,41
+dolce & gabbana,42
+alexander mcqueen,43
+tory burch,44
+vera wang,45
+lanvin,46
+chanel,47
+fendi,48
+alexander wang,49
