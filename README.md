@@ -43,8 +43,8 @@ kaggle_idesigner/
 ## RUN
 * STEP0
 ```
-git clone 
-cd 
+git clone https://github.com/xungeer29/kaggle_idesigner
+cd kaggle_idesigner
 ```
 * STEP1
 添加文件搜索路径，更改数据集根目录
@@ -75,7 +75,6 @@ python inference.py
 ## TODO
 * data distulation
 * OHEM
-* warm up lr schedule
 * pretrainedmodels senet spp
 
 ## Experiments
